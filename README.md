@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Sports-Deck
 - 🌱 I’m currently learning the Django Python Framework 
-- 🥅 2021 Goals: Learn React.JS, Refine my portfolio website, Gain a software engineering internship
+- 🥅 2021 Goals: Learn React.JS, Refine Lifeofkab.com, Gain A Software Engineering Internship
 - ⚡ Fun fact: I am a huge New York Knicks Fan
 
 
