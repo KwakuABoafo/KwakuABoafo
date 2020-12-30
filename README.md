@@ -1,5 +1,5 @@
 ### Hi there, I'm Kwaku A. 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/KwakuABoafo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Kwaku A.)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KwakuABoafo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKwakuABoafo&screen_name=Kwaku_A.)
 
 ## I'm currently a First-year student at Syracuse University 
 
@@ -40,9 +40,13 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<details>
+  
 <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Kwaku's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KwakuABoafo&show_icons=true&hide_border=true" />
+ 
+</details>
 
 [website]: https://lifeofkab.com
 [twitter]: https://twitter.com/KwakuABoafo
