@@ -1,7 +1,7 @@
 ### Hi there, I'm Kwaku A. 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/KwakuABoafo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKwakuABoafo&screen_name=Kwaku_A.)
 
-## I'm currently a First-year student at Syracuse University 
+## I'm currently a First-year student at Syracuse University & Aspiring Full-Stack Developer
 
 - 🔭 I’m currently working on Sports-Deck
 - 🌱 I’m currently learning the Django Python Framework 
@@ -34,6 +34,7 @@
 
 ### Tools and Languages I Would Like To Learn:
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react-native.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
