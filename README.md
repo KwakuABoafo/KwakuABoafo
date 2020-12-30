@@ -1,7 +1,7 @@
 ### Hi there, I'm Kwaku A. 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/KwakuABoafo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKwakuABoafo&screen_name=Kwaku_A.)
 
-## I'm currently a First-year student at Syracuse University & Aspiring Full-Stack Developer
+## I'm a First-year Syracuse Student & Aspiring Full-Stack Developer
 
 - 🔭 I’m currently working on Sports-Deck
 - 🌱 I’m currently learning the Django Python Framework 
