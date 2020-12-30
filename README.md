@@ -1,5 +1,6 @@
 ### Hi there, I'm Kwaku A. 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/KwakuABoafo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKwakuABoafo&screen_name=Kwaku_A.)
+[![Website](https://img.shields.io/website?label=lifeofkab.com&style=for-the-badge&url=https%3A%2F%2Flifeofkab.com)](https://lifeofkab.com)
 
 ## I'm a First-year Syracuse Student & Aspiring Full-Stack Developer
 
